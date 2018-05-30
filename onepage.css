@@ -80,7 +80,7 @@
 #header.sticky-header #header-wrap,
 #header.full-header.border-full-header.sticky-header #header-wrap {
 	box-shadow: none;
-	border-bottom: 1px solid #F5F5F5 !important;
+	border-bottom: 1px solid #960000 !important;
 	-webkit-backface-visibility: hidden;
 }
 
@@ -113,6 +113,7 @@
 	font-size: 12px;
 	font-weight: 400;
 	letter-spacing: 3px;
+	color: whitesmoke;
 }
 
 
