@@ -424,7 +424,7 @@ var SEMICOLON = SEMICOLON || {};
 			if( $lightboxAjaxGalleryEl.length > 0 ) {
 				$lightboxAjaxGalleryEl.magnificPopup({
 					delegate: 'a[data-lightbox="ajax-gallery-item"]',
-					type: 'ajax',
+					type: 'ajax-gallery',
 					closeBtnInside: false,
 					gallery: {
 						enabled: true,

@@ -3509,7 +3509,7 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 	background-color: #FFF;
 }
 
-#content p { line-height: 1.8; }
+#content p { line-height: 1.3; font-size: 1.3em; }
 
 .content-wrap {
 	position: relative;
