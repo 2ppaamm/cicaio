@@ -3573,7 +3573,7 @@ body:not(.device-touch) .grid-container {
 
 .portfolio-filter li.activeFilter a {
 	color: #FFF !important;
-	background-color: #FFC113;
+	background-color: #960000;
 	margin: -1px 0;
 	padding: 13px 18px;
 	font-weight: bold;
